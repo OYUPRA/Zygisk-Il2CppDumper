@@ -5,6 +5,6 @@
 #ifndef ZYGISK_IL2CPPDUMPER_GAME_H
 #define ZYGISK_IL2CPPDUMPER_GAME_H
 
-#define GamePackageName "com.uniu.dance.happy.id"
+#define GamePackageName "com.kakaogames.gdts"
 
 #endif //ZYGISK_IL2CPPDUMPER_GAME_H
